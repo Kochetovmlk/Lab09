@@ -1,5 +1,5 @@
 # Lab09
-
+## Для выполнения данной лабораторной работы были выполнены следующие команды:
 $ export GITHUB_USERNAME=Kochetovmlk
 $ export PACKAGE_MANAGER=apt
 
